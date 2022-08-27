@@ -858,10 +858,12 @@ h6 {
     padding: 20px 10px;
   }
   .treatment .info .col1 h2 {
+    font-size: 41px;
   }
 }
 
 /*###########treatment2#############*/
+
 .treatment2 {
   padding-top: var(--padding);
   padding-bottom: var(--padding);
